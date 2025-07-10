@@ -1,0 +1,42 @@
+.meus-ingressos {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px 20px 20px;
+  }
+  
+  .meus-ingressos h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #0088FE;
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  
+  .meus-ingressos h3 {
+    color: #000000;
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin-top: 32px;
+    margin-bottom: 12px;
+  }
+  
+  .ingresso-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  .ingresso-card h3 {
+    color: #9932CC;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-top: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .ingresso-card p {
+    margin: 5px 0;
+    color: #555;
+  }
